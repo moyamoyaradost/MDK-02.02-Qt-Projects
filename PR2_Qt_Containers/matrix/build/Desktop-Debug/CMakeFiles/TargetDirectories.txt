@@ -1,0 +1,9 @@
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/matrix.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/install.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/matrix_autogen_timestamp_deps.dir
+/home/maksimn/matrix/build/Desktop-Debug/CMakeFiles/matrix_autogen.dir

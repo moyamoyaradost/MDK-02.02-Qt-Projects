@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+bd8dad62ee42d2e01c3552ef935c2ec6 CMakeFiles/rectangle_autogen
+bd8dad62ee42d2e01c3552ef935c2ec6 CMakeFiles/rectangle_autogen_timestamp_deps
+26ce057bf356fba52aa5f12be43d4758 rectangle_autogen/timestamp

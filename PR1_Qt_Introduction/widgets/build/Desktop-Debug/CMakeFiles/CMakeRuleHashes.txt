@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+7352438323d956f7c34060880f015b37 CMakeFiles/widgets_autogen
+7352438323d956f7c34060880f015b37 CMakeFiles/widgets_autogen_timestamp_deps
+6058b472a944d77b9b76ba1fb2d09d94 widgets_autogen/timestamp

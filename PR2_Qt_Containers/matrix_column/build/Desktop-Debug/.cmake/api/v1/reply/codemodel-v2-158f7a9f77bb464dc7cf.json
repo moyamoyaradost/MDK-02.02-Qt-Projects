@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-62440ff46b042484b86a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "matrix_column",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix_column::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix_column-Debug-1fc6073654eaf016d5f9.json",
+					"name" : "matrix_column",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix_column_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix_column_autogen-Debug-29122f74fb63799d5c7f.json",
+					"name" : "matrix_column_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix_column_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix_column_autogen_timestamp_deps-Debug-20b693817f12d7b0b334.json",
+					"name" : "matrix_column_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/maksimn/matrix_column/build/Desktop-Debug",
+		"source" : "/home/maksimn/matrix_column"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

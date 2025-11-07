@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1c66dd20b97c8c6f402f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "array_reverse1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "array_reverse1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array_reverse1-Debug-aee94a7438640e857f50.json",
+					"name" : "array_reverse1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "array_reverse1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array_reverse1_autogen-Debug-b710d6f4c7e3195d6958.json",
+					"name" : "array_reverse1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "array_reverse1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array_reverse1_autogen_timestamp_deps-Debug-5ef950a8cc293b4b9456.json",
+					"name" : "array_reverse1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/maksimn/array_reverse1/build/Desktop-Debug",
+		"source" : "/home/maksimn/array_reverse1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

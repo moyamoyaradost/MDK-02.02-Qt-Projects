@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/vect_sum.dir/vect_sum_autogen/mocs_compilation.cpp.o CMakeFiles/vect_sum.dir/main.cpp.o -o vect_sum  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 

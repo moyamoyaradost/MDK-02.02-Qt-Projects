@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/array_reverse.dir/array_reverse_autogen/mocs_compilation.cpp.o CMakeFiles/array_reverse.dir/main.cpp.o -o array_reverse  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 

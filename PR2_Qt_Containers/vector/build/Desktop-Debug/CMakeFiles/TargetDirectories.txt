@@ -1,0 +1,9 @@
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/vector.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/install.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/vector_autogen_timestamp_deps.dir
+/home/maksimn/vector/build/Desktop-Debug/CMakeFiles/vector_autogen.dir
